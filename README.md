@@ -59,8 +59,7 @@ export
 
 The individual accounts cluster very nicely into their respective parties. However
 nodes with few connections to the network are especially prone to changing position. 
-Thewre are other downsides to this approach:
+There are other downsides to this approach:
 * Newspapers and journalists can’t be placed properly in the diagram. For example, BILD and taz appear politically close (which they are not at all), since they follow accounts from all over the political spectrum.
 * To follow an account does not necessarily mean one endorses its positions. One might just wan’t to stay on top of its deeds and misdeeds.
 * The placement of the political parties and especially of accounts with few connections to the rest of the network are, to some degree, random. Refer to the section “technical” for details.
-
